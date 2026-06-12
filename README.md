@@ -1,5 +1,5 @@
 # Demo-Project
 My First Project
 <br>
-Author-Pravat Sahoo
+Author-Pravat Kumar Sahoo
 
